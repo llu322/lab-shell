@@ -1,0 +1,5 @@
+flag location: docs/archive/fieldnotes.txt, line 3
+top-level Python line count: 17
+unfinished markers: 7
+top-level Python file count: 3
+Initially, the setup failed because I mistyped .sh as .s and then ran the script from an extra nested folder; I corrected both issues.
